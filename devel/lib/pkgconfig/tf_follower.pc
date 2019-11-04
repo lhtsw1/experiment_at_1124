@@ -1,0 +1,8 @@
+prefix=/home/lht/robots/devel
+
+Name: tf_follower
+Description: Description of tf_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lht/robots/devel/lib 
+Requires: 

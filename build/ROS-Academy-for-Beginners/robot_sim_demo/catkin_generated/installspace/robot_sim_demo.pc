@@ -1,0 +1,8 @@
+prefix=/home/lht/robots/install
+
+Name: robot_sim_demo
+Description: Description of robot_sim_demo
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/lht/robots/install/lib 
+Requires: urdf xacro

@@ -1,0 +1,8 @@
+prefix=/home/lht/robots/install
+
+Name: kinect2_bridge
+Description: Description of kinect2_bridge
+Version: 0.0.1
+Cflags: -I/home/lht/robots/install/include
+Libs: -L/home/lht/robots/install/lib 
+Requires: kinect2_registration

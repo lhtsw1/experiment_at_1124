@@ -1,0 +1,8 @@
+prefix=/home/lht/robots/devel
+
+Name: cartographer_ros_msgs
+Description: Description of cartographer_ros_msgs
+Version: 1.0.0
+Cflags: -I/home/lht/robots/devel/include
+Libs: -L/home/lht/robots/devel/lib 
+Requires: 

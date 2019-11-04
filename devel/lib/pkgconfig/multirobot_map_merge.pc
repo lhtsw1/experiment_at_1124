@@ -1,0 +1,8 @@
+prefix=/home/lht/robots/devel
+
+Name: multirobot_map_merge
+Description: Description of multirobot_map_merge
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/lht/robots/devel/lib 
+Requires: 

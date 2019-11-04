@@ -1,0 +1,8 @@
+prefix=/home/lht/robots/devel
+
+Name: action_demo
+Description: Description of action_demo
+Version: 0.0.0
+Cflags: -I/home/lht/robots/devel/include
+Libs: -L/home/lht/robots/devel/lib 
+Requires: actionlib actionlib_msgs genmsg message_generation roscpp rospy std_msgs

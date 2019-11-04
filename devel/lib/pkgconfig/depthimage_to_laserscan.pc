@@ -1,0 +1,8 @@
+prefix=/home/lht/robots/devel
+
+Name: depthimage_to_laserscan
+Description: Description of depthimage_to_laserscan
+Version: 1.0.8
+Cflags: -I/home/lht/robots/devel/include -I/home/lht/robots/src/multi-robot-mapping/depthimage_to_laserscan/include
+Libs: -L/home/lht/robots/devel/lib -lDepthImageToLaserScan -lDepthImageToLaserScanROS -lDepthImageToLaserScanNodelet
+Requires: dynamic_reconfigure image_geometry image_transport nodelet roscpp sensor_msgs

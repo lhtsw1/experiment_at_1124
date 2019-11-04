@@ -1,0 +1,2 @@
+set(ca_msgs_MESSAGE_FILES "/home/lht/robots/src/multi-robot-mapping/create_autonomy-indigo-devel/ca_msgs/msg/Bumper.msg;/home/lht/robots/src/multi-robot-mapping/create_autonomy-indigo-devel/ca_msgs/msg/ChargingState.msg;/home/lht/robots/src/multi-robot-mapping/create_autonomy-indigo-devel/ca_msgs/msg/DefineSong.msg;/home/lht/robots/src/multi-robot-mapping/create_autonomy-indigo-devel/ca_msgs/msg/Mode.msg;/home/lht/robots/src/multi-robot-mapping/create_autonomy-indigo-devel/ca_msgs/msg/PlaySong.msg")
+set(ca_msgs_SERVICE_FILES "")
